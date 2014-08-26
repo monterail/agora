@@ -1,5 +1,3 @@
-Why is this interesing?
-
 [![Bazaar preview](charts/bazaar_preview.png)](charts/bazaar.png?raw=true)
 
 This diagram visualizes top 100 contributors to rails/rails collaborating on other open-source projects on github. Each cell represents two projects that shared some contributors; darker cells indicate that more rails/rails people collaborated in both projects.
